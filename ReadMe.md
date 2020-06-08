@@ -63,4 +63,4 @@ Please see the detail in 'Results.ipynb' to generate heatmaps by the XCNN and ot
 ****
 ## Paper/Citation:
 
-FirstName(s) Last Name(s) 'Embedded Encoder-Decoder in Convolutional Networks Towards Explainable AI', 2020
+Amirhossein Tavanaei, 'Embedded Encoder-Decoder in Convolutional Networks Towards Explainable AI', Arxiv, June 2020
